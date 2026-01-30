@@ -29,7 +29,7 @@ export default function Drink() {
           </button>
 
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-6 text-center">
-            Drinks Menu
+            Drink Menu
           </h1>
 
           <img

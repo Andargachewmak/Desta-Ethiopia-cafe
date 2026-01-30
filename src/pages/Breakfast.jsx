@@ -29,7 +29,7 @@ export default function Breakfast() {
           </button>
 
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-6 text-center">
-            Breakfast Menu
+            Breakfast - Menu
           </h1>
 
           <img
